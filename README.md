@@ -188,7 +188,9 @@ When the same member scans again:
 
 This feature helps libraries monitor member activity and usage statistics.
 
-![In Time Out Time](images/in_out_time.jpeg)
+![In Time](images/in_out_time.jpeg)
+
+![Out Time](images/in_out_time.jpeg)
 
 ---
 
@@ -204,7 +206,7 @@ The system automatically sends email notifications to members during important a
 
 This improves communication and helps members keep track of their library activities.
 
-![Email Notification](images/lib_ingo.jpeg)
+![System Notifications](images/lib_ingo.jpeg)
 
 ---
 
