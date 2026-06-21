@@ -1,5 +1,5 @@
 # Library-Management-System
-Library Management System with QR-based book tracking, digital ID cards, attendance monitoring, and email automation using Python &amp; CustomTkinter.
+Library Management System with QR-based book tracking, digital ID cards, attendance monitoring, and email automation using Python & CustomTkinter.
 
 A desktop-based Library Management System developed using **Python** and **CustomTkinter**. This application helps libraries manage members, books, QR-based book tracking, digital ID cards, attendance monitoring, and automated email notifications.
 
@@ -23,7 +23,7 @@ The Dashboard serves as the main navigation center of the application and provid
 
 The dashboard allows librarians to manage all library operations from a single interface, making the system easy to use and navigate.
 
-![Dashboard](home_page.jpeg)
+![Dashboard](images/home_page.jpeg)
 
 ---
 
@@ -40,7 +40,7 @@ The Member Registration module is used to create and maintain library member rec
 
 The system stores the member details and uses them for identification, attendance tracking, and book transactions.
 
-![Add Member](user_info.jpeg)
+![Add Member](images/user_info.jpeg)
 
 ---
 
@@ -57,7 +57,7 @@ After registering a member, the system can automatically generate a digital libr
 
 The generated ID card is displayed inside the application and can also be sent directly to the member's email address.
 
-![Generated ID Card](generate_id.jpeg)
+![Generated ID Card](images/generate_id.jpeg)
 
 ---
 
@@ -79,7 +79,7 @@ The Scan Member ID module allows librarians to quickly retrieve member informati
 
 This feature eliminates manual searching and speeds up member verification.
 
-![Scan Member ID](id_created.jpeg)
+![Scan Member ID](images/id_created.jpeg)
 
 ---
 
@@ -94,7 +94,7 @@ The Book Registration module is used to add new books to the library database.
 
 Each registered book receives a unique identity within the system.
 
-![Register Book](reg_book.jpeg)
+![Register Book](images/reg_book.jpeg)
 
 ---
 
@@ -111,7 +111,7 @@ Once a book is registered, the system generates a unique QR code for that book.
 
 The QR code can be printed and attached to the physical book.
 
-![Book QR Code](book_qr.jpeg)
+![Book QR Code](images/book_qr.jpeg)
 
 ---
 
@@ -138,7 +138,7 @@ The system records:
 
 An email notification containing all transaction details is automatically sent to the member.
 
-![Issue Book](get_book.jpeg)
+![Issue Book](images/get_book.jpeg)
 
 ---
 
@@ -163,7 +163,7 @@ The system displays:
 
 A return confirmation email is automatically sent to the member.
 
-![Return Book](return_book.jpeg)
+![Return Book](images/return_book.jpeg)
 
 ---
 
@@ -188,7 +188,7 @@ When the same member scans again:
 
 This feature helps libraries monitor member activity and usage statistics.
 
-![In Time Out Time](in_out_time.jpeg)
+![In Time Out Time](images/in_out_time.jpeg)
 
 ---
 
@@ -204,7 +204,7 @@ The system automatically sends email notifications to members during important a
 
 This improves communication and helps members keep track of their library activities.
 
-![Email Notification](screenshots/email_notification.png)
+![Email Notification](images/lib_ingo.jpeg)
 
 ---
 
