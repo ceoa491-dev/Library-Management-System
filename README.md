@@ -249,4 +249,4 @@ These technologies work together to create a complete desktop-based library mana
 
 Python Developer | Software Development Enthusiast
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/ceoa491-dev
