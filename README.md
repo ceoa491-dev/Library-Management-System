@@ -40,7 +40,7 @@ The Member Registration module is used to create and maintain library member rec
 
 The system stores the member details and uses them for identification, attendance tracking, and book transactions.
 
-![Add Member](images/user_info.jpeg)
+![Add Member](images/generate_id.jpeg)
 
 ---
 
@@ -57,7 +57,7 @@ After registering a member, the system can automatically generate a digital libr
 
 The generated ID card is displayed inside the application and can also be sent directly to the member's email address.
 
-![Generated ID Card](images/generate_id.jpeg)
+![Generated ID Card](images/id_created.jpeg)
 
 ---
 
@@ -79,7 +79,7 @@ The Scan Member ID module allows librarians to quickly retrieve member informati
 
 This feature eliminates manual searching and speeds up member verification.
 
-![Scan Member ID](images/id_created.jpeg)
+![Scan Member ID](images/user_info.jpeg)
 
 ---
 
@@ -190,23 +190,24 @@ This feature helps libraries monitor member activity and usage statistics.
 
 ![In Time](images/in_out_time.jpeg)
 
-![Out Time](images/in_out_time.jpeg)
-
 ---
 
-# 📧 Automated Email Notifications
+# 🏛 Library Setup / Configuration
 
-The system automatically sends email notifications to members during important activities.
+This module is used to create and configure the library system by setting up essential details such as library name, email, password, and phone number.
 
-### Email Notifications Include
+### Information Required
 
-* Digital ID Card Delivery
-* Book Issue Confirmation
-* Book Return Confirmation
+* Library Name
+* Email Address
+* Password
+* Phone Number
 
-This improves communication and helps members keep track of their library activities.
+The system uses these details for authentication, communication, and automated email services. This setup ensures that the library is properly configured before using other features like member registration, book management, and QR-based tracking.
 
-![System Notifications](images/lib_ingo.jpeg)
+This configuration is a one-time setup process that initializes the entire library management system.
+
+![Library Setup](images/lib_ingo.jpeg)
 
 ---
 
